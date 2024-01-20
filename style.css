@@ -37,6 +37,7 @@ body{
     flex: 1;
     margin-right: 16px;
     font-size: 18px;
+    width: calc(100%-30px);
 }
 
 .search button{
